@@ -16,7 +16,9 @@ main {
 article {
     flex: 2; 
     overflow-y: auto; 
-}
+     color: #f44336; 
+    text-transform: uppercase; 
+    font-size: 2.5em; /*}
 
 aside {
     flex: 1; 
