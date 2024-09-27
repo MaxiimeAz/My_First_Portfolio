@@ -21,7 +21,9 @@ article {
 aside {
     flex: 1; 
     overflow-y: auto; 
-}
+    background-color: #f1f1f1; 
+    border-left: 3px solid #00796b; 
+    padding: 20px;}
 
 
 header, footer {
